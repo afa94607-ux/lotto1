@@ -2,8 +2,6 @@ import { ZodiacItem } from '../types/yuki';
 
 export const ZODIAC_ITEMS: ZodiacItem[] = [
   {
-    export const ZODIAC_ITEMS: ZodiacItem[] = [
-  {
     number: 1,
     khmerName: 'ជូត',
     englishName: 'Mouse',
@@ -17,6 +15,8 @@ export const ZODIAC_ITEMS: ZodiacItem[] = [
     iconSymbol: '🐭',
     luckyPlant: 'Money Tree',
     imageUrl: 'https://raw.githubusercontent.com/afa94607-ux/photo/86da493e3029cdf923f5ac864665a69f924b4159/photo_2026-10-09_10-38-29.jpg',
+  },
+  // ...
   },
   // ...
 ];
