@@ -55,6 +55,7 @@ export const ZODIAC_ITEMS: ZodiacItem[] = [
     colorHex: '#ef4444',
     bgGradient: 'from-rose-50 to-red-100',
     iconSymbol: '🐇',
+  l[image alt](https://github.com/afa94607-ux/photo/blob/86da493e3029cdf923f5ac864665a69f924b4159/photo_2026-10-09_10-38-29.jpg)
     luckyPlant: 'Jade Plant',
   },
   {
