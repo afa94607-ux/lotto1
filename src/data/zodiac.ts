@@ -14,7 +14,7 @@ export const ZODIAC_ITEMS: ZodiacItem[] = [
     bgGradient: 'from-amber-50 to-orange-100',
     iconSymbol: '🐭', 
     luckyPlant: 'Money Tree',
-    1[image alt](https://github.com/afa94607-ux/photo/blob/86da493e3029cdf923f5ac864665a69f924b4159/photo_2026-10-09_10-38-29.jpg) 
+    1[image alt](photo_2026-10-09_10-38-29.jpg) 
   },
   {
     number: 2,
